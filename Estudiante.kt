@@ -3,6 +3,10 @@ class Estudiante {
     var edad: Int
 }
 
+fun imprimirNombre() {
+    println(nombre)
+}
+
 fun imprimirEdad (){
     print(edad)
 }
