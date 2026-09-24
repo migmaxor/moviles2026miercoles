@@ -6,3 +6,7 @@ class Estudiante {
 fun imprimirNombre() {
     println(nombre)
 }
+
+fun imprimirEdad (){
+    print(edad)
+}
